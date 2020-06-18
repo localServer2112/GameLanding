@@ -17,6 +17,12 @@ header{
   padding-left: 9em;
 }
 
+.btn-custom{
+  background: #e50914;
+  padding: 0.2em 0.7em!important;
+  border-radius: 6px;
+}
+
 .btn-apple{
   display: inline-block;
   border-radius: 2em;
