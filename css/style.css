@@ -326,14 +326,6 @@ footer{
   border: 3px solid var(--primary-color);
 }
 
-.hero::after{
-  content: '';
-  width: 490px;
-  height: 200px;
-  background: url(../images/1501\ 1.png) no-repeat right right/cover;
-  top: 
-}
-
 .hero-gallery{
   width: 1280px;
   margin-top: 21px;
